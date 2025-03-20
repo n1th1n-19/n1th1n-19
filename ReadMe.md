@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nthnpy3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/n1th1n_log) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nthnpy3@gmail.com) 
