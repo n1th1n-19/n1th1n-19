@@ -1,13 +1,13 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-10-10T09:31:27Z",
+  "generated_at": "2026-10-11T09:44:28Z",
   "range": {
-    "start": "2025-10-05",
-    "end": "2026-10-10"
+    "start": "2025-10-12",
+    "end": "2026-10-11"
   },
-  "total_contributions": 2829,
-  "active_days": 278,
-  "avg_per_active_day": 10.2,
+  "total_contributions": 2804,
+  "active_days": 273,
+  "avg_per_active_day": 10.3,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 130
+      "total": 105
     },
     {
       "month": "2025-11",
@@ -77,34 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 1
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 3
-    },
-    {
-      "date": "2025-10-09",
-      "count": 9
-    },
-    {
-      "date": "2025-10-10",
-      "count": 2
-    },
-    {
-      "date": "2025-10-11",
-      "count": 10
-    },
     {
       "date": "2025-10-12",
       "count": 16
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-10",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
       "count": 0
     }
   ]
