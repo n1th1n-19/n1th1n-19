@@ -14,12 +14,11 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 480, 363      # shown at 490 wide -> same height as the portrait at 370
 PAD = 20
-TITLEBAR_H = 30
 KEY_X = PAD
 VAL_X = PAD + 92
-LINE_H = 20.5
+LINE_H = 18.5
 
 BG = "#0d1117"
 BG2 = "#111722"
@@ -47,19 +46,22 @@ HOST = "n1th1n"   # shown as  n1th1n@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "OS", "Pop!_OS / Linux"),
+    ("kv", "OS", "Pop!_OS 24.04 / Linux"),
     ("kv", "Shell", "zsh + custom env"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Languages", "TypeScript · Kotlin · Python · JS"),
+    ("kv", "Languages", "TypeScript · Kotlin · Python · Rust · JS"),
     ("kv", "Mobile", "Android (Kotlin), React Native"),
     ("kv", "Web", "React, Next.js, Node.js"),
     ("kv", "Tools", "Git, Docker, REST APIs"),
     ("gap",),
     ("sec", "Projects"),
-    ("bul", "RTMON — real-time Android system monitor"),
-    ("bul", "MetaMorph — multi-utility web app"),
-    ("bul", "Clippy — clipboard manager for GNOME"),
+    ("bul", "Tag-Team — dashboard for juggling Claude accounts"),
+    ("bul", "duck-share — LocalSend fork with NFC tap-to-share"),
+    ("bul", "ONION — night & day VS Code theme system"),
+    ("bul", "Onion-Lens — color picker & screenshot extension"),
+    ("bul", "DARKMARK — dark Markdown preview for VS Code"),
+    ("bul", "Forge — interactive dev environment setup CLI"),
     ("gap",),
     ("bul", "May the almighty source code be with you."),
 ]
@@ -88,14 +90,9 @@ parts = [
     f'<stop offset="0" stop-color="{BG2}"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>',
     f'<rect width="{W}" height="{H}" rx="12" fill="url(#ibg)"/>',
     f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="12" fill="none" stroke="{FRAME}"/>',
-    f'<line x1="0" y1="{TITLEBAR_H}" x2="{W}" y2="{TITLEBAR_H}" stroke="{FRAME}"/>',
 ]
-for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
-    parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
-parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">{esc(HOST)}@github: ~$ neofetch</text>')
 
-y = TITLEBAR_H + 30
+y = PAD + 16
 for i, row in enumerate(ROWS):
     kind = row[0]
     if kind == "gap":
