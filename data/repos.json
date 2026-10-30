@@ -1,0 +1,336 @@
+{
+  "username": "n1th1n-19",
+  "generated_at": "2026-10-30T15:11:22Z",
+  "repos": [
+    {
+      "name": "Forge",
+      "description": "Interactive developer environment setup CLI. Detects your OS and distro, shows a checklist of tools, installs only what you select \u2014 all from official sources. ",
+      "url": "https://github.com/n1th1n-19/Forge",
+      "stars": 0,
+      "language": "Rust",
+      "pushed_at": "2026-10-30T10:33:37Z",
+      "releases_total": 3,
+      "latest_release": {
+        "tag": "v0.3.0",
+        "date": "2026-10-24",
+        "url": "https://github.com/n1th1n-19/Forge/releases/tag/v0.3.0"
+      }
+    },
+    {
+      "name": "DARKMARK",
+      "description": "A VS Code extension that opens .md files as a rendered dark-themed preview instead of raw text.",
+      "url": "https://github.com/n1th1n-19/DARKMARK",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-30T10:33:35Z",
+      "releases_total": 3,
+      "latest_release": {
+        "tag": "v2.0.0",
+        "date": "2026-10-03",
+        "url": "https://github.com/n1th1n-19/DARKMARK/releases/tag/v2.0.0"
+      }
+    },
+    {
+      "name": "Onion-Lens",
+      "description": "Cross-browser color picker & screenshot extension \u2014 eyedropper, 10 color formats, palettes, WCAG contrast, full-page/area/element capture with editor. MV3, zero dependencies.",
+      "url": "https://github.com/n1th1n-19/Onion-Lens",
+      "stars": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-30T10:33:33Z",
+      "releases_total": 2,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "date": "2026-10-02",
+        "url": "https://github.com/n1th1n-19/Onion-Lens/releases/tag/v1.0.1"
+      }
+    },
+    {
+      "name": "ONION",
+      "description": "Night & day VS Code theme system tuned for JavaScript, TypeScript and Python: 5 palettes \u00d7 Night/Day, Classic and onion-bulb file icons, solid product icons, plus accent and auto day/night settings.",
+      "url": "https://github.com/n1th1n-19/ONION",
+      "stars": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-30T10:33:31Z",
+      "releases_total": 1,
+      "latest_release": {
+        "tag": "v0.1.0",
+        "date": "2026-10-01",
+        "url": "https://github.com/n1th1n-19/ONION/releases/tag/v0.1.0"
+      }
+    },
+    {
+      "name": "duck-share",
+      "description": "Duck: LocalSend fork with NFC tap-to-share (AirDrop-style) for Android",
+      "url": "https://github.com/n1th1n-19/duck-share",
+      "stars": 1,
+      "language": "Dart",
+      "pushed_at": "2026-10-30T10:33:29Z",
+      "releases_total": 5,
+      "latest_release": {
+        "tag": "v1.18.2-duck.5",
+        "date": "2026-10-27",
+        "url": "https://github.com/n1th1n-19/duck-share/releases/tag/v1.18.2-duck.5"
+      }
+    },
+    {
+      "name": "Tag-Team",
+      "description": "Your work and personal Claude accounts as a tag team: a retro pixel-art dashboard for Claude Code with usage life bars, a GitHub-style token heatmap, and one-click TAG ME switching. Built on claude-swap. CLI, plugin, and VS Code/VSCodium extension.",
+      "url": "https://github.com/n1th1n-19/Tag-Team",
+      "stars": 0,
+      "language": "Python",
+      "pushed_at": "2026-10-30T10:33:27Z",
+      "releases_total": 10,
+      "latest_release": {
+        "tag": "v0.4.6",
+        "date": "2026-10-16",
+        "url": "https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.6"
+      }
+    },
+    {
+      "name": "n1th1n-19",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/n1th1n-19",
+      "stars": 1,
+      "language": "Python",
+      "pushed_at": "2026-10-30T09:41:47Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "designed",
+      "description": "UI/UX skill for AI agents. One design system from Apple, Material, One UI, Fluent, Carbon, Polaris and modern web. Discovery first, brand kit, motion, demo, and a designed.md every agent follows.",
+      "url": "https://github.com/n1th1n-19/designed",
+      "stars": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-23T14:48:56Z",
+      "releases_total": 3,
+      "latest_release": {
+        "tag": "v0.1.2",
+        "date": "2026-10-23",
+        "url": "https://github.com/n1th1n-19/designed/releases/tag/v0.1.2"
+      }
+    },
+    {
+      "name": "RTMON",
+      "description": " Real-time Android system monitor widget with CPU, RAM, battery & network tracking. Features retro LED aesthetic, color-coded graphs, and automatic dark/light theme support. Battery           optimized with 3s refresh rate. Native Kotlin implementation. MIT licensed.",
+      "url": "https://github.com/n1th1n-19/RTMON",
+      "stars": 13,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-20T19:36:58Z",
+      "releases_total": 6,
+      "latest_release": {
+        "tag": "v1.1.0",
+        "date": "2026-10-20",
+        "url": "https://github.com/n1th1n-19/RTMON/releases/tag/v1.1.0"
+      }
+    },
+    {
+      "name": "daybloom-privacy",
+      "description": "Privacy policy for Daybloom, the countdown garden app for Android.",
+      "url": "https://github.com/n1th1n-19/daybloom-privacy",
+      "stars": 0,
+      "language": "HTML",
+      "pushed_at": "2026-10-13T20:45:26Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "earshot",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/earshot",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T01:53:56Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "The-Oracale-Machine",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/The-Oracale-Machine",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-06T10:01:27Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Earth-Live",
+      "description": "Real-time 3D digital twin of Earth live weather, earthquakes, wildfires, flights, ISS, air quality, and space weather, all from free public APIs. No mock data, no AI.",
+      "url": "https://github.com/n1th1n-19/Earth-Live",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T18:09:45Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Touch-Me",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Touch-Me",
+      "stars": 0,
+      "language": "Shell",
+      "pushed_at": "2026-08-02T19:44:19Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Penalty-Blitz",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Penalty-Blitz",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-22T14:53:24Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "HELM",
+      "description": "HELM transforms any Android device into a dedicated developer command center \u2014 a sidecar display mounted beside your workstation showing real-time system monitoring, git insights, music controls, and active development environment status.  ",
+      "url": "https://github.com/n1th1n-19/HELM",
+      "stars": 0,
+      "language": "Kotlin",
+      "pushed_at": "2026-06-03T16:15:45Z",
+      "releases_total": 12,
+      "latest_release": {
+        "tag": "v0.4.8",
+        "date": "2026-06-03",
+        "url": "https://github.com/n1th1n-19/HELM/releases/tag/v0.4.8"
+      }
+    },
+    {
+      "name": "Clippy",
+      "description": "A clipboard history manager for Pop!_OS / GNOME \u2014 similar to Windows' Win+V panel.  Tracks copied text, images, and files. Pin items to keep them across reboots. Triggered via keyboard shortcut or system tray icon.",
+      "url": "https://github.com/n1th1n-19/Clippy",
+      "stars": 0,
+      "language": "Python",
+      "pushed_at": "2026-05-04T15:53:39Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Text-Summarizer",
+      "description": "To summarize a give passage",
+      "url": "https://github.com/n1th1n-19/Text-Summarizer",
+      "stars": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-31T19:16:41Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "MetaMorph",
+      "description": "MetaMorph is a powerful, modern multi-utility web application",
+      "url": "https://github.com/n1th1n-19/MetaMorph",
+      "stars": 1,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-05T17:12:13Z",
+      "releases_total": 1,
+      "latest_release": {
+        "tag": "v1.0.0",
+        "date": "2025-08-29",
+        "url": "https://github.com/n1th1n-19/MetaMorph/releases/tag/v1.0.0"
+      }
+    },
+    {
+      "name": "test-expo",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/test-expo",
+      "stars": 1,
+      "language": null,
+      "pushed_at": "2025-10-27T11:21:54Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "ex",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/ex",
+      "stars": 1,
+      "language": "TypeScript",
+      "pushed_at": "2025-10-27T11:19:21Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Tech-Stack",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Tech-Stack",
+      "stars": 1,
+      "language": null,
+      "pushed_at": "2025-09-21T14:12:35Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Xpens",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Xpens",
+      "stars": 1,
+      "language": "JavaScript",
+      "pushed_at": "2025-09-16T18:23:29Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "stopwatch",
+      "description": "stopwatch",
+      "url": "https://github.com/n1th1n-19/stopwatch",
+      "stars": 1,
+      "language": "JavaScript",
+      "pushed_at": "2025-08-24T16:18:57Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Auth-with-JWT",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Auth-with-JWT",
+      "stars": 1,
+      "language": "TypeScript",
+      "pushed_at": "2025-08-20T22:31:02Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Memedd",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Memedd",
+      "stars": 1,
+      "language": "JavaScript",
+      "pushed_at": "2025-08-18T05:28:17Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Memend",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Memend",
+      "stars": 1,
+      "language": "TypeScript",
+      "pushed_at": "2025-08-17T18:57:38Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "KustomBot",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/KustomBot",
+      "stars": 1,
+      "language": "JavaScript",
+      "pushed_at": "2025-08-13T08:30:58Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "Jump_Game",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/Jump_Game",
+      "stars": 1,
+      "language": "JavaScript",
+      "pushed_at": "2025-08-08T07:09:48Z",
+      "releases_total": 0,
+      "latest_release": null
+    }
+  ]
+}

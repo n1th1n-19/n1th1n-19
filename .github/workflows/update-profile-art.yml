@@ -31,10 +31,24 @@ jobs:
       - name: Render heatmap
         run: python scripts/render_heatmap_svg.py
 
+      - name: Fetch repos
+        env:
+          GH_PROFILE_USER: n1th1n-19
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/fetch_repos.py
+
+      - name: Render cards and stats
+        run: |
+          python scripts/render_project_cards.py
+          python scripts/render_stats.py
+
+      - name: Update README releases
+        run: python scripts/update_readme_releases.py
+
       - name: Commit & push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add contrib-heatmap.svg data/contributions.json
-          git diff --cached --quiet || git commit -m "chore: update contribution graph"
+          git add contrib-heatmap.svg data/contributions.json data/repos.json cards stats.svg README.md
+          git diff --cached --quiet || git commit -m "chore: update profile data"
           git push
