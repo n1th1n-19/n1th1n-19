@@ -33,6 +33,11 @@ gray = cv2.cvtColor(rgb, cv2.COLOR_RGB2GRAY)
 clahe = cv2.createCLAHE(clipLimit=2.6, tileGridSize=(8, 8))
 gray = clahe.apply(gray)
 
+# INVERT=1 for bright subjects (white clothing): light ink on the dark terminal
+# means dense chars read as bright, so dark->dense would render a negative
+if os.environ.get("INVERT"):
+    gray = 255 - gray
+
 # a touch of global lift so the face sits in the sparse end of the ramp
 gray = cv2.convertScaleAbs(gray, alpha=1.05, beta=18)
 
