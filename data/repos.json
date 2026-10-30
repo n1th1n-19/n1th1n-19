@@ -1,7 +1,17 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-10-30T15:11:22Z",
+  "generated_at": "2026-10-30T15:14:39Z",
   "repos": [
+    {
+      "name": "n1th1n-19",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/n1th1n-19",
+      "stars": 1,
+      "language": "Python",
+      "pushed_at": "2026-10-30T15:14:20Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
     {
       "name": "Forge",
       "description": "Interactive developer environment setup CLI. Detects your OS and distro, shows a checklist of tools, installs only what you select \u2014 all from official sources. ",
@@ -23,7 +33,7 @@
       "stars": 0,
       "language": "TypeScript",
       "pushed_at": "2026-10-30T10:33:35Z",
-      "releases_total": 3,
+      "releases_total": 2,
       "latest_release": {
         "tag": "v2.0.0",
         "date": "2026-10-03",
@@ -87,16 +97,6 @@
       }
     },
     {
-      "name": "n1th1n-19",
-      "description": null,
-      "url": "https://github.com/n1th1n-19/n1th1n-19",
-      "stars": 1,
-      "language": "Python",
-      "pushed_at": "2026-10-30T09:41:47Z",
-      "releases_total": 0,
-      "latest_release": null
-    },
-    {
       "name": "designed",
       "description": "UI/UX skill for AI agents. One design system from Apple, Material, One UI, Fluent, Carbon, Polaris and modern web. Discovery first, brand kit, motion, demo, and a designed.md every agent follows.",
       "url": "https://github.com/n1th1n-19/designed",
@@ -117,7 +117,7 @@
       "stars": 13,
       "language": "Kotlin",
       "pushed_at": "2026-10-20T19:36:58Z",
-      "releases_total": 6,
+      "releases_total": 5,
       "latest_release": {
         "tag": "v1.1.0",
         "date": "2026-10-20",
