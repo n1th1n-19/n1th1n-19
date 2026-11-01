@@ -1,16 +1,86 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-10-31T09:21:18Z",
+  "generated_at": "2026-11-01T10:09:51Z",
   "repos": [
+    {
+      "name": "DARKMARK",
+      "description": "A VS Code extension that opens .md files as a rendered dark-themed preview instead of raw text.",
+      "url": "https://github.com/n1th1n-19/DARKMARK",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T12:27:10Z",
+      "releases_total": 2,
+      "latest_release": {
+        "tag": "v2.0.0",
+        "date": "2026-10-03",
+        "url": "https://github.com/n1th1n-19/DARKMARK/releases/tag/v2.0.0"
+      }
+    },
+    {
+      "name": "Onion-Lens",
+      "description": "Cross-browser color picker & screenshot extension \u2014 eyedropper, 10 color formats, palettes, WCAG contrast, full-page/area/element capture with editor. MV3, zero dependencies.",
+      "url": "https://github.com/n1th1n-19/Onion-Lens",
+      "stars": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-31T12:27:08Z",
+      "releases_total": 2,
+      "latest_release": {
+        "tag": "v1.0.1",
+        "date": "2026-10-02",
+        "url": "https://github.com/n1th1n-19/Onion-Lens/releases/tag/v1.0.1"
+      }
+    },
+    {
+      "name": "ONION",
+      "description": "Night & day VS Code theme system tuned for JavaScript, TypeScript and Python: 5 palettes \u00d7 Night/Day, Classic and onion-bulb file icons, solid product icons, plus accent and auto day/night settings.",
+      "url": "https://github.com/n1th1n-19/ONION",
+      "stars": 0,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-31T12:27:05Z",
+      "releases_total": 1,
+      "latest_release": {
+        "tag": "v0.1.0",
+        "date": "2026-10-01",
+        "url": "https://github.com/n1th1n-19/ONION/releases/tag/v0.1.0"
+      }
+    },
     {
       "name": "charcoal",
       "description": "Turn any image into detailed ASCII art in your browser. Mono or original colors, background removal, and SVG, PNG or text export. Images never leave your device.",
       "url": "https://github.com/n1th1n-19/charcoal",
       "stars": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-10-30T20:14:00Z",
+      "pushed_at": "2026-10-31T12:27:03Z",
       "releases_total": 0,
       "latest_release": null
+    },
+    {
+      "name": "duck-share",
+      "description": "Duck: LocalSend fork with NFC tap-to-share (AirDrop-style) for Android",
+      "url": "https://github.com/n1th1n-19/duck-share",
+      "stars": 1,
+      "language": "Dart",
+      "pushed_at": "2026-10-31T12:27:01Z",
+      "releases_total": 5,
+      "latest_release": {
+        "tag": "v1.18.2-duck.5",
+        "date": "2026-10-27",
+        "url": "https://github.com/n1th1n-19/duck-share/releases/tag/v1.18.2-duck.5"
+      }
+    },
+    {
+      "name": "Tag-Team",
+      "description": "Your work and personal Claude accounts as a tag team: a retro pixel-art dashboard for Claude Code with usage life bars, a GitHub-style token heatmap, and one-click TAG ME switching. Built on claude-swap. CLI, plugin, and VS Code/VSCodium extension.",
+      "url": "https://github.com/n1th1n-19/Tag-Team",
+      "stars": 0,
+      "language": "Python",
+      "pushed_at": "2026-10-31T12:26:58Z",
+      "releases_total": 10,
+      "latest_release": {
+        "tag": "v0.4.6",
+        "date": "2026-10-16",
+        "url": "https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.6"
+      }
     },
     {
       "name": "n1th1n-19",
@@ -18,7 +88,7 @@
       "url": "https://github.com/n1th1n-19/n1th1n-19",
       "stars": 1,
       "language": "Python",
-      "pushed_at": "2026-10-30T15:14:41Z",
+      "pushed_at": "2026-10-31T09:21:19Z",
       "releases_total": 0,
       "latest_release": null
     },
@@ -34,76 +104,6 @@
         "tag": "v0.3.0",
         "date": "2026-10-24",
         "url": "https://github.com/n1th1n-19/Forge/releases/tag/v0.3.0"
-      }
-    },
-    {
-      "name": "DARKMARK",
-      "description": "A VS Code extension that opens .md files as a rendered dark-themed preview instead of raw text.",
-      "url": "https://github.com/n1th1n-19/DARKMARK",
-      "stars": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-30T10:33:35Z",
-      "releases_total": 2,
-      "latest_release": {
-        "tag": "v2.0.0",
-        "date": "2026-10-03",
-        "url": "https://github.com/n1th1n-19/DARKMARK/releases/tag/v2.0.0"
-      }
-    },
-    {
-      "name": "Onion-Lens",
-      "description": "Cross-browser color picker & screenshot extension \u2014 eyedropper, 10 color formats, palettes, WCAG contrast, full-page/area/element capture with editor. MV3, zero dependencies.",
-      "url": "https://github.com/n1th1n-19/Onion-Lens",
-      "stars": 0,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-30T10:33:33Z",
-      "releases_total": 2,
-      "latest_release": {
-        "tag": "v1.0.1",
-        "date": "2026-10-02",
-        "url": "https://github.com/n1th1n-19/Onion-Lens/releases/tag/v1.0.1"
-      }
-    },
-    {
-      "name": "ONION",
-      "description": "Night & day VS Code theme system tuned for JavaScript, TypeScript and Python: 5 palettes \u00d7 Night/Day, Classic and onion-bulb file icons, solid product icons, plus accent and auto day/night settings.",
-      "url": "https://github.com/n1th1n-19/ONION",
-      "stars": 0,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-30T10:33:31Z",
-      "releases_total": 1,
-      "latest_release": {
-        "tag": "v0.1.0",
-        "date": "2026-10-01",
-        "url": "https://github.com/n1th1n-19/ONION/releases/tag/v0.1.0"
-      }
-    },
-    {
-      "name": "duck-share",
-      "description": "Duck: LocalSend fork with NFC tap-to-share (AirDrop-style) for Android",
-      "url": "https://github.com/n1th1n-19/duck-share",
-      "stars": 1,
-      "language": "Dart",
-      "pushed_at": "2026-10-30T10:33:29Z",
-      "releases_total": 5,
-      "latest_release": {
-        "tag": "v1.18.2-duck.5",
-        "date": "2026-10-27",
-        "url": "https://github.com/n1th1n-19/duck-share/releases/tag/v1.18.2-duck.5"
-      }
-    },
-    {
-      "name": "Tag-Team",
-      "description": "Your work and personal Claude accounts as a tag team: a retro pixel-art dashboard for Claude Code with usage life bars, a GitHub-style token heatmap, and one-click TAG ME switching. Built on claude-swap. CLI, plugin, and VS Code/VSCodium extension.",
-      "url": "https://github.com/n1th1n-19/Tag-Team",
-      "stars": 0,
-      "language": "Python",
-      "pushed_at": "2026-10-30T10:33:27Z",
-      "releases_total": 10,
-      "latest_release": {
-        "tag": "v0.4.6",
-        "date": "2026-10-16",
-        "url": "https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.6"
       }
     },
     {
