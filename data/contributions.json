@@ -1,17 +1,17 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-11-01T10:09:49Z",
+  "generated_at": "2026-11-02T10:38:51Z",
   "range": {
     "start": "2025-11-02",
-    "end": "2026-11-01"
+    "end": "2026-11-02"
   },
-  "total_contributions": 3080,
-  "active_days": 277,
-  "avg_per_active_day": 11.1,
+  "total_contributions": 3060,
+  "active_days": 274,
+  "avg_per_active_day": 11.2,
   "current_streak": {
-    "length": 20,
-    "start": "2026-10-12",
-    "end": "2026-10-31"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 20,
@@ -45,7 +45,7 @@
     },
     {
       "month": "2026-04",
-      "total": 311
+      "total": 310
     },
     {
       "month": "2026-05",
@@ -53,7 +53,7 @@
     },
     {
       "month": "2026-06",
-      "total": 580
+      "total": 577
     },
     {
       "month": "2026-07",
@@ -61,11 +61,11 @@
     },
     {
       "month": "2026-08",
-      "total": 141
+      "total": 127
     },
     {
       "month": "2026-09",
-      "total": 247
+      "total": 245
     },
     {
       "month": "2026-10",
@@ -679,7 +679,7 @@
     },
     {
       "date": "2026-04-01",
-      "count": 3
+      "count": 2
     },
     {
       "date": "2026-04-02",
@@ -1007,11 +1007,11 @@
     },
     {
       "date": "2026-06-22",
-      "count": 22
+      "count": 20
     },
     {
       "date": "2026-06-23",
-      "count": 19
+      "count": 18
     },
     {
       "date": "2026-06-24",
@@ -1171,11 +1171,11 @@
     },
     {
       "date": "2026-08-02",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-08-03",
-      "count": 6
+      "count": 1
     },
     {
       "date": "2026-08-04",
@@ -1207,11 +1207,11 @@
     },
     {
       "date": "2026-08-11",
-      "count": 6
+      "count": 0
     },
     {
       "date": "2026-08-12",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-08-13",
@@ -1315,7 +1315,7 @@
     },
     {
       "date": "2026-09-07",
-      "count": 15
+      "count": 13
     },
     {
       "date": "2026-09-08",
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-11-01",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
       "count": 0
     }
   ]
