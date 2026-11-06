@@ -1,14 +1,28 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-11-05T10:26:55Z",
+  "generated_at": "2026-11-06T10:28:25Z",
   "repos": [
+    {
+      "name": "Tag-Team",
+      "description": "Your work and personal Claude accounts as a tag team: a retro pixel-art dashboard for Claude Code with usage life bars, a GitHub-style token heatmap, and one-click TAG ME switching. Built on claude-swap. CLI, plugin, and VS Code/VSCodium extension.",
+      "url": "https://github.com/n1th1n-19/Tag-Team",
+      "stars": 0,
+      "language": "Python",
+      "pushed_at": "2026-11-05T10:55:09Z",
+      "releases_total": 10,
+      "latest_release": {
+        "tag": "v0.4.6",
+        "date": "2026-10-16",
+        "url": "https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.6"
+      }
+    },
     {
       "name": "n1th1n-19",
       "description": null,
       "url": "https://github.com/n1th1n-19/n1th1n-19",
       "stars": 1,
       "language": "Python",
-      "pushed_at": "2026-11-04T10:33:57Z",
+      "pushed_at": "2026-11-05T10:26:56Z",
       "releases_total": 0,
       "latest_release": null
     },
@@ -76,20 +90,6 @@
         "tag": "v1.18.2-duck.5",
         "date": "2026-10-27",
         "url": "https://github.com/n1th1n-19/duck-share/releases/tag/v1.18.2-duck.5"
-      }
-    },
-    {
-      "name": "Tag-Team",
-      "description": "Your work and personal Claude accounts as a tag team: a retro pixel-art dashboard for Claude Code with usage life bars, a GitHub-style token heatmap, and one-click TAG ME switching. Built on claude-swap. CLI, plugin, and VS Code/VSCodium extension.",
-      "url": "https://github.com/n1th1n-19/Tag-Team",
-      "stars": 0,
-      "language": "Python",
-      "pushed_at": "2026-10-31T12:26:58Z",
-      "releases_total": 10,
-      "latest_release": {
-        "tag": "v0.4.6",
-        "date": "2026-10-16",
-        "url": "https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.6"
       }
     },
     {
