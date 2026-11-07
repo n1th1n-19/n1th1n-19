@@ -1,7 +1,27 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-11-06T10:28:25Z",
+  "generated_at": "2026-11-07T09:40:57Z",
   "repos": [
+    {
+      "name": "Bezels",
+      "description": "Test web pages on emulated real phones, foldables, tablets and desktops: real browser engines, device frames, notches, safe areas, Telegram Mini Apps, layout audits. Claude Code drives it over MCP.",
+      "url": "https://github.com/n1th1n-19/Bezels",
+      "stars": 0,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-06T18:20:24Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
+    {
+      "name": "n1th1n-19",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/n1th1n-19",
+      "stars": 1,
+      "language": "Python",
+      "pushed_at": "2026-11-06T10:28:26Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
     {
       "name": "Tag-Team",
       "description": "Your work and personal Claude accounts as a tag team: a retro pixel-art dashboard for Claude Code with usage life bars, a GitHub-style token heatmap, and one-click TAG ME switching. Built on claude-swap. CLI, plugin, and VS Code/VSCodium extension.",
@@ -15,16 +35,6 @@
         "date": "2026-10-16",
         "url": "https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.6"
       }
-    },
-    {
-      "name": "n1th1n-19",
-      "description": null,
-      "url": "https://github.com/n1th1n-19/n1th1n-19",
-      "stars": 1,
-      "language": "Python",
-      "pushed_at": "2026-11-05T10:26:56Z",
-      "releases_total": 0,
-      "latest_release": null
     },
     {
       "name": "charcoal",
