@@ -1,6 +1,6 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-11-07T09:40:57Z",
+  "generated_at": "2026-11-09T10:59:31Z",
   "repos": [
     {
       "name": "Bezels",
@@ -8,9 +8,13 @@
       "url": "https://github.com/n1th1n-19/Bezels",
       "stars": 0,
       "language": "TypeScript",
-      "pushed_at": "2026-11-06T18:20:24Z",
-      "releases_total": 0,
-      "latest_release": null
+      "pushed_at": "2026-11-09T07:31:39Z",
+      "releases_total": 2,
+      "latest_release": {
+        "tag": "v0.1.2",
+        "date": "2026-11-09",
+        "url": "https://github.com/n1th1n-19/Bezels/releases/tag/v0.1.2"
+      }
     },
     {
       "name": "n1th1n-19",
@@ -18,7 +22,7 @@
       "url": "https://github.com/n1th1n-19/n1th1n-19",
       "stars": 1,
       "language": "Python",
-      "pushed_at": "2026-11-06T10:28:26Z",
+      "pushed_at": "2026-11-07T09:40:58Z",
       "releases_total": 0,
       "latest_release": null
     },
