@@ -43,10 +43,10 @@ LANG_COLORS = {
 PROJECTS = [
     ("Tag-Team", "Dashboard for juggling Claude accounts"),
     ("duck-share", "LocalSend fork with NFC tap-to-share"),
-    ("ONION", "Night & day VS Code theme system"),
-    ("Onion-Lens", "Color picker & screenshot extension"),
+    ("ember", "Comic-book system monitor for COSMIC"),
+    ("Bezels", "Test pages on emulated real devices"),
+    ("charcoal", "Turn any image into detailed ASCII art"),
     ("DARKMARK", "Dark Markdown preview for VS Code"),
-    ("Forge", "Interactive dev environment setup CLI"),
 ]
 
 
@@ -63,7 +63,7 @@ def rise(inner):
 def render(name, blurb, repo):
     lang = repo["language"] or "Other"
     color = LANG_COLORS.get(lang, MUTED)
-    tag = repo["latest_release"]["tag"] if repo["latest_release"] else "no release"
+    tag = repo["latest_release"]["tag"] if repo["latest_release"] else ""
     foot_y = H - 19
     stars = (f'<text x="{PAD+116}" y="{foot_y}" fill="{GOLD}" font-size="12">&#9733; '
              f'<tspan fill="{MUTED}">{repo["stars"]}</tspan></text>') if repo["stars"] else ""

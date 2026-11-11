@@ -28,12 +28,12 @@
 <td><a href="https://github.com/n1th1n-19/duck-share"><img src="./cards/duck-share.svg" width="420" alt="duck-share" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/n1th1n-19/ONION"><img src="./cards/ONION.svg" width="420" alt="ONION" /></a></td>
-<td><a href="https://github.com/n1th1n-19/Onion-Lens"><img src="./cards/Onion-Lens.svg" width="420" alt="Onion-Lens" /></a></td>
+<td><a href="https://github.com/n1th1n-19/ember"><img src="./cards/ember.svg" width="420" alt="ember" /></a></td>
+<td><a href="https://github.com/n1th1n-19/Bezels"><img src="./cards/Bezels.svg" width="420" alt="Bezels" /></a></td>
 </tr>
 <tr>
+<td><a href="https://github.com/n1th1n-19/charcoal"><img src="./cards/charcoal.svg" width="420" alt="charcoal" /></a></td>
 <td><a href="https://github.com/n1th1n-19/DARKMARK"><img src="./cards/DARKMARK.svg" width="420" alt="DARKMARK" /></a></td>
-<td><a href="https://github.com/n1th1n-19/Forge"><img src="./cards/Forge.svg" width="420" alt="Forge" /></a></td>
 </tr>
 </table>
 
@@ -68,11 +68,11 @@
 
 <br>
 
-**Forge** detects your OS and distro, shows a checklist of tools, and installs only what you select.
+**charcoal** turns any image into detailed ASCII art in your browser, with SVG, PNG or text export. Images never leave your device.
 
-**Tag-Team** runs work and personal Claude accounts as a tag team, with usage life bars and a token heatmap.
+**ember** is a comic-book system monitor and control center for the COSMIC desktop, written in Rust.
 
-**duck-share** adds NFC tap-to-share to LocalSend on Android.
+**Bezels** tests web pages on emulated real phones, foldables, tablets and desktops, and Claude Code drives it over MCP.
 
 </details>
 

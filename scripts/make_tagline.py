@@ -28,8 +28,8 @@ THEMES = {"tagline.svg": "#c9d1d9", "tagline-light.svg": "#1f2328"}
 # ===========================================================================
 LINES = [
     "May the almighty source code be with you.",
-    "Now building: Forge · Tag-Team · duck-share",
-    "Shipping ONION, Onion-Lens and DARKMARK",
+    "Now building: charcoal · ember · Bezels",
+    "Shipping Tag-Team, duck-share and DARKMARK",
     "TypeScript · Kotlin · Python · Rust",
 ]
 

@@ -58,10 +58,10 @@ ROWS = [
     ("sec", "Projects"),
     ("bul", "Tag-Team — dashboard for juggling Claude accounts"),
     ("bul", "duck-share — LocalSend fork with NFC tap-to-share"),
-    ("bul", "ONION — night & day VS Code theme system"),
-    ("bul", "Onion-Lens — color picker & screenshot extension"),
+    ("bul", "ember — comic-book system monitor for COSMIC"),
+    ("bul", "Bezels — test pages on emulated real devices"),
+    ("bul", "charcoal — turn any image into ASCII art"),
     ("bul", "DARKMARK — dark Markdown preview for VS Code"),
-    ("bul", "Forge — interactive dev environment setup CLI"),
     ("gap",),
     ("bul", "May the almighty source code be with you."),
 ]
