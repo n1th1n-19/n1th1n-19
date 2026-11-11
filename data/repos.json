@@ -1,7 +1,31 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-11-10T10:50:02Z",
+  "generated_at": "2026-11-11T10:26:33Z",
   "repos": [
+    {
+      "name": "ember",
+      "description": "Comic-book system monitor and control center for the COSMIC desktop, in Rust: app, panel applets, desktop widget.",
+      "url": "https://github.com/n1th1n-19/ember",
+      "stars": 0,
+      "language": "Rust",
+      "pushed_at": "2026-11-11T10:22:47Z",
+      "releases_total": 1,
+      "latest_release": {
+        "tag": "v0.1.0",
+        "date": "2026-11-11",
+        "url": "https://github.com/n1th1n-19/ember/releases/tag/v0.1.0"
+      }
+    },
+    {
+      "name": "n1th1n-19",
+      "description": null,
+      "url": "https://github.com/n1th1n-19/n1th1n-19",
+      "stars": 1,
+      "language": "Python",
+      "pushed_at": "2026-11-10T10:50:03Z",
+      "releases_total": 0,
+      "latest_release": null
+    },
     {
       "name": "Bezels",
       "description": "Test web pages on emulated real phones, foldables, tablets and desktops: real browser engines, device frames, notches, safe areas, Telegram Mini Apps, layout audits. Claude Code drives it over MCP.",
@@ -15,16 +39,6 @@
         "date": "2026-11-09",
         "url": "https://github.com/n1th1n-19/Bezels/releases/tag/v0.2.0"
       }
-    },
-    {
-      "name": "n1th1n-19",
-      "description": null,
-      "url": "https://github.com/n1th1n-19/n1th1n-19",
-      "stars": 1,
-      "language": "Python",
-      "pushed_at": "2026-11-09T10:59:32Z",
-      "releases_total": 0,
-      "latest_release": null
     },
     {
       "name": "Tag-Team",

@@ -43,11 +43,11 @@
 
 | Project | Release | Date |
 | :--- | :--- | :--- |
+| [ember](https://github.com/n1th1n-19/ember) | [v0.1.0](https://github.com/n1th1n-19/ember/releases/tag/v0.1.0) | 2026-11-11 |
 | [Bezels](https://github.com/n1th1n-19/Bezels) | [v0.2.0](https://github.com/n1th1n-19/Bezels/releases/tag/v0.2.0) | 2026-11-09 |
 | [duck-share](https://github.com/n1th1n-19/duck-share) | [v1.18.2-duck.5](https://github.com/n1th1n-19/duck-share/releases/tag/v1.18.2-duck.5) | 2026-10-27 |
 | [Forge](https://github.com/n1th1n-19/Forge) | [v0.3.0](https://github.com/n1th1n-19/Forge/releases/tag/v0.3.0) | 2026-10-24 |
 | [designed](https://github.com/n1th1n-19/designed) | [v0.1.2](https://github.com/n1th1n-19/designed/releases/tag/v0.1.2) | 2026-10-23 |
-| [RTMON](https://github.com/n1th1n-19/RTMON) | [v1.1.0](https://github.com/n1th1n-19/RTMON/releases/tag/v1.1.0) | 2026-10-20 |
 
 <!-- releases:end -->
 
