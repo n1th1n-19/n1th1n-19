@@ -1,6 +1,6 @@
 {
   "username": "n1th1n-19",
-  "generated_at": "2026-11-11T11:20:07Z",
+  "generated_at": "2026-11-12T10:43:21Z",
   "repos": [
     {
       "name": "ember",
@@ -8,12 +8,12 @@
       "url": "https://github.com/n1th1n-19/ember",
       "stars": 0,
       "language": "Rust",
-      "pushed_at": "2026-11-11T11:12:10Z",
-      "releases_total": 1,
+      "pushed_at": "2026-11-11T19:55:41Z",
+      "releases_total": 4,
       "latest_release": {
-        "tag": "v0.1.0",
+        "tag": "v0.1.3",
         "date": "2026-11-11",
-        "url": "https://github.com/n1th1n-19/ember/releases/tag/v0.1.0"
+        "url": "https://github.com/n1th1n-19/ember/releases/tag/v0.1.3"
       }
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://github.com/n1th1n-19/n1th1n-19",
       "stars": 1,
       "language": "Python",
-      "pushed_at": "2026-11-11T10:26:35Z",
+      "pushed_at": "2026-11-11T11:21:02Z",
       "releases_total": 0,
       "latest_release": null
     },
@@ -71,7 +71,7 @@
       "stars": 0,
       "language": "TypeScript",
       "pushed_at": "2026-10-31T12:27:10Z",
-      "releases_total": 3,
+      "releases_total": 2,
       "latest_release": {
         "tag": "v2.0.0",
         "date": "2026-10-03",
@@ -155,7 +155,7 @@
       "stars": 13,
       "language": "Kotlin",
       "pushed_at": "2026-10-20T19:36:58Z",
-      "releases_total": 6,
+      "releases_total": 5,
       "latest_release": {
         "tag": "v1.1.0",
         "date": "2026-10-20",
