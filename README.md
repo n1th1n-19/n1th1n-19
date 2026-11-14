@@ -43,9 +43,9 @@
 
 | Project | Release | Date |
 | :--- | :--- | :--- |
+| [ember](https://github.com/n1th1n-19/ember) | [v0.1.4](https://github.com/n1th1n-19/ember/releases/tag/v0.1.4) | 2026-11-13 |
 | [Tag-Team](https://github.com/n1th1n-19/Tag-Team) | [v0.4.10](https://github.com/n1th1n-19/Tag-Team/releases/tag/v0.4.10) | 2026-11-13 |
 | [DARKMARK](https://github.com/n1th1n-19/DARKMARK) | [v2.0.1](https://github.com/n1th1n-19/DARKMARK/releases/tag/v2.0.1) | 2026-11-13 |
-| [ember](https://github.com/n1th1n-19/ember) | [v0.1.3](https://github.com/n1th1n-19/ember/releases/tag/v0.1.3) | 2026-11-11 |
 | [Bezels](https://github.com/n1th1n-19/Bezels) | [v0.2.0](https://github.com/n1th1n-19/Bezels/releases/tag/v0.2.0) | 2026-11-09 |
 | [duck-share](https://github.com/n1th1n-19/duck-share) | [v1.18.2-duck.5](https://github.com/n1th1n-19/duck-share/releases/tag/v1.18.2-duck.5) | 2026-10-27 |
 
